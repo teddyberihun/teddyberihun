@@ -9,10 +9,9 @@
 - Managing containerized environments with **Docker** and **Kubernetes**.  
 
 ### 📫 How to reach me ...  
-- 📧 **teddyabe1@mail.com**  
+- 📧 **teddyabel@gmail.com**  
 - 🔗 [linkedin.com/in/teddyberihun](https://linkedin.com/in/teddyberihun)  
-- 📍 Timber Hollow, Springfield  
-
+- 
 ### ⚡ Expertise ...  
 - **Cloud Platforms:** AWS (EC2, S3, Lambda, RDS, VPC), Azure  
 - **DevOps Tools:** Jenkins, GitLab CI/CD
